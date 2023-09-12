@@ -1,0 +1,116 @@
+Louis
+Vachon
+National Bank of Canada
+10500000
+Randall
+Eresman
+EnCana Corp.
+10300000
+Thomas
+Glocer
+Thomson Reuters Corp.
+36000000
+Jim
+Shaw
+Shaw Communications Inc.
+8200000
+Ted
+Rogers
+Rogers Communications Inc.
+21500000
+J. M.
+Lipton
+Nova Chemicals Corp.
+19800000
+George
+Cope
+BCE Inc.
+19600000
+Harold
+Kvisle
+TransCanada Corp.
+8600000
+Robert
+Brown
+CAE Inc.
+17300000
+William
+Doyle
+Potash Corp. of Saskatchewan
+17000000
+Allan
+Leighton
+Loblaw Cos. Ltd./Weston
+8800000
+Hunter
+Harrison
+Canadian National Railway Co.
+13400000
+John
+Manzoni
+Talisman Energy Inc.
+8800000
+Dominic
+D’Alessandro
+Manulife Financial Corp.
+13300000
+Richard
+Waugh
+Bank of Nova Scotia
+9200000
+Stephen
+Wetmore
+Bell Aliant Regional Com. Income Fund
+11600000
+Serafino
+Iacono
+Pacific Rubiales Energy Corp.
+11300000
+Miguel
+de la Campa
+Pacific Rubiales Energy Corp.
+11300000
+Jeffrey
+Orr
+Power Financial Corp.
+11300000
+Jean Claude
+Gandur
+Addax Petroleum Corp.
+11200000
+Edmund
+Clark
+Toronto-Dominion Bank
+11100000
+Tye
+Burt
+Kinross Gold Corp.
+11100000
+Frank
+Stronach
+Magna International Inc.
+10800000
+Ron
+Brenneman
+Petro-Canada
+9200000
+Kevin
+McArthur
+Goldcorp Inc.
+8700000
+Craig
+Muhlhauser
+Celestica Inc
+8700000
+Eugene
+McBurney
+GMP Corp.
+8300000
+Michael
+Wilson
+Agrium Inc.
+9200000
+Gregory
+Wilkins
+Barrick Gold Corp.
+8900000
